@@ -5,12 +5,12 @@ Ainsi que la création d'une mini interface web pour gerer la fermeture et ouver
 
 ## Le matériel
 
--Un Arduino (UNO dans mon cas).
--Une photorésistance (1M ohms).
--Une résistance (10Kohm) (marron / noir / orange).
--Une Carte relais à 2-canaux à LEDs indicateurs (5V) (Indicator Light LED Two 2 Channel Relay Module).
--Une breadboard (plaque d'essai).
--Des fils de connexion mâle / mâle pour câbler notre montage.
+- Un Arduino (UNO dans mon cas).
+- Une photorésistance (1M ohms).
+- Une résistance (10Kohm) (marron / noir / orange).
+- Une Carte relais à 2-canaux à LEDs indicateurs (5V) (Indicator Light LED Two 2 Channel Relay Module).
+- Une breadboard (plaque d'essai).
+- Des fils de connexion mâle / mâle pour câbler notre montage.
 
 Nous verrons d'abord comment fonctionne une photorésistance et une carte relais, puis comment les utiliser.
 
@@ -70,10 +70,10 @@ Image: Capture d'écran du moniteur série
 ### Montage final
 
 Dans le montage final, on a ajouté la carte relais à LEDs indicateurs:
--De l'allimentation 5V de la carte Aruino et du coté gauche de la photorésistance, on branche la carte relais en VCC.
--De GND de la carte Aruino et du coté droit de la résistance on branche la carte relais en GND.
--Si on prend le fil blanc (du GND et resistance) branché à IN1 de la carte relais, la LED indicateur en couleur rouge 1 (gauche) s'allume (IMG1).
--Si on prend le fil blanc (du GND et resistance) branché à IN2 de la carte relais, la LED indicateur couleur rouge 2 (droite) s'allume (IMG2).
+- De l'allimentation 5V de la carte Aruino et du coté gauche de la photorésistance, on branche la carte relais en VCC.
+- De GND de la carte Aruino et du coté droit de la résistance on branche la carte relais en GND.
+- Si on prend le fil blanc (du GND et resistance) branché à IN1 de la carte relais, la LED indicateur en couleur rouge 1 (gauche) s'allume (IMG1).
+- Si on prend le fil blanc (du GND et resistance) branché à IN2 de la carte relais, la LED indicateur couleur rouge 2 (droite) s'allume (IMG2).
 comme suit:
 (IMG1)
 ![1](https://cloud.githubusercontent.com/assets/22649502/23109088/e56bcbc0-f715-11e6-91db-d8439e09c3a8.png)
