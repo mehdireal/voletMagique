@@ -1,4 +1,4 @@
-### (technologie web & applications professionnelles)
+### (Technologie Web & Applications Professionnelles)
 # Mini-projet Volet Magique 
 Il s'agit d'effectuer un programme pour mesurer la luminosité ambiante d'une pièce au moyen d'une photorésistance et d'une carte Arduino. 
 Ainsi que la création d'une mini interface web pour gerer la fermeture et ouverture d'un volet (dans notre cas on utilisera une Carte relais).
