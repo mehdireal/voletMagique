@@ -17,7 +17,7 @@ Nous verrons d'abord comment fonctionne une photorésistance et une carte relais
 
 ## La photorésistance ?
 
-Une photorésistance est un composant dont la résistivité dépend de la luminosité ambiante. Pour faire simple, c'est une résistance dont la valeur change en fonction de la lumière qu'elle reçoit. Pour plus d'informations: https://learn.adafruit.com/photocells .<br>
+Une photorésistance est un composant dont la résistivité dépend de la luminosité ambiante. Pour faire simple, c'est une résistance dont la valeur change en fonction de la lumière qu'elle reçoit. Pour plus d'informations [cliquez ici](https://learn.adafruit.com/photocells) .<br>
 Il existe différents types de photorésistances, chacune ayant des valeurs de résistance différentes en fonction de la luminosité ambiante. On va utilisé le type le plus classique de photorésistances [[ de 1M ohms (obscurité) / 12K ohms (pleine lumière)]].<br> 
 Le "lux" est l'unité de mesure de la lumière. <br>
 
