@@ -6,7 +6,7 @@ Ainsi que la création d'une mini interface web pour gerer la fermeture et ouver
 
 ## Le matériel
 
-- Un Arduino (UNO dans mon cas).
+- Un Arduino (UNO dans notre cas).
 - Une photorésistance (1M ohms).
 - Une résistance (10Kohm) (marron / noir / orange).
 - Une Carte relais à 2-canaux à LEDs indicateurs (5V) (Indicator Light LED Two 2 Channel Relay Module).
