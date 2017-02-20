@@ -1,4 +1,5 @@
-# Mini-projet Volet Magique (technologie web & applications professionnelles)
+### (technologie web & applications professionnelles)
+# Mini-projet Volet Magique 
 Il s'agit d'effectuer un programme pour mesurer la luminosité ambiante d'une pièce au moyen d'une photorésistance et d'une carte Arduino. 
 Ainsi que la création d'une mini interface web pour gerer la fermeture et ouverture d'un volet (dans notre cas on utilisera une Carte relais).
 # Partie Arduino
@@ -76,7 +77,6 @@ Dans le montage final, on a ajouté la carte relais à LEDs indicateurs:
 comme suit:<br>
 (IMG1)<br>
 ![1](https://cloud.githubusercontent.com/assets/22649502/23109088/e56bcbc0-f715-11e6-91db-d8439e09c3a8.png)<br>
-
 (IMG2)<br>
 ![2](https://cloud.githubusercontent.com/assets/22649502/23109292/1f2a0a50-f718-11e6-90a6-1ebe7a11f0dd.png)<br>
 
@@ -84,12 +84,13 @@ comme suit:<br>
 
 Pour lancer cette application, vous devez installer toutes les dépendances
 ```bash
-clone ...
+git clone https://github.com/ImaneZer/voletMagique.git
 cd voletMagique
 npm install express --save
-node app.js```
+node app.js
+```
 <br>
 ![1](https://cloud.githubusercontent.com/assets/22649502/23110122/0b796922-f71f-11e6-92ea-de7fb5031ae8.png)
-
+<br>
 Inserssion Image rsulats final de la page web-controle ...
 
