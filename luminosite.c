@@ -1,5 +1,5 @@
 /**
- * @authors Imane zerouali
+ * @authors Imane ZEROUALI
  *          Narimane BENHELLAL
  *          Mohamed El-Mehdi TIOUITCHI
  *          Abdousamad MOUSA ELMI
