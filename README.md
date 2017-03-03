@@ -65,7 +65,8 @@ Le code est disponible dans le fichier "luminosite".
 
 ## Le résultat
 
-Image: Capture d'écran du moniteur série
+Capture d'écran du moniteur série
+![capture du 2017-03-03 11-02-13](https://cloud.githubusercontent.com/assets/22649502/23552259/346c390e-001b-11e7-82be-f40e21c6723b.png)
 
 ### Montage final
 
