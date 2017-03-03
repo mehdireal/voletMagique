@@ -1,9 +1,7 @@
 html
   head
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js')
     title= title
   body
-    h1= message
     div(id='truc')
-
-    script setInterval(function() { console.log("coucou")}, 3000 );
-
+      h1(id='element')= detail
